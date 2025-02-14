@@ -1,4 +1,4 @@
-# Real-time-Anomaly-Detection-in-Network-Traffic-for-Cybersecurity
+# Real-time Anomaly Detection in Network Traffic for Cybersecurity
 ### Project Overview
 Anomaly detection in network traffic is crucial for identifying and mitigating cybersecurity threats in real-time. This project involves developing a machine learning model to detect unusual patterns in network traffic that could indicate potential security threats.
 
